@@ -1,2 +1,5 @@
 pdfplumber
 pandas
+numpy
+sentence-transformers
+faiss-cpu
